@@ -99,7 +99,7 @@ This dashboard helps answer key business questions such as:
 - Enhance UI/UX with more modern dashboard design  
 
 ## Dashboard Preview
-  
+  ![coffee_sales_dashboard](https://github.com/hitakshigabani21/Coffee-Shop-Sales-Analysis-Dashboard/blob/4209b85782d844fa50eddda26d2f07d00f72e4d5/Dashboard_preview.png)
 
 ## Conclusion
 This dashboard provides a comprehensive view of coffee shop operations, enabling data-driven decisions by analyzing sales, customer trends, and product performance effectively.
